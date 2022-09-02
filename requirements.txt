@@ -1,0 +1,2 @@
+pyaudio
+pyttsx3
